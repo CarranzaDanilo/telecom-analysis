@@ -38,11 +38,38 @@ El dashboard interactivo se encuentra en la carpeta `/dashboard/`. Este dashboar
 
 ## Análisis y KPIs
 
+### Introducción
 
-![Descripción de la Imagen](Acceso por cada 100 hogares nivel nacional.png)
+En el contexto de la empresa prestadora de servicios de telecomunicaciones, el objetivo es realizar un análisis completo del comportamiento del sector a nivel nacional. A continuación, se presentan dos gráficos que muestran la evolución de los accesos a internet en el país, analizados globalmente.
+
+![Acceso por cada 100 hogares nivel nacional](Accesos_100_habitantes.png)
+
+![Acceso por cada 100 hogares nivel nacional](Acceso%20por%20cada%20100%20hogares%20nivel%20nacional.png)
+
+### Gráfica 1: Evolución de Accesos por cada 100 Habitantes
+
+En esta gráfica se muestra la evolución de la métrica "Accesos por cada 100 Habitantes" y "Accesos por cada 100 Habitantes" por semestre. Este análisis permite observar cómo ha cambiado el acceso a internet a lo largo del tiempo, proporcionándonos una visión clara de las tendencias nacionales en términos de conectividad. 
+
+**Propósito:**
+- Identificar las tendencias generales en el acceso a internet en el país.
+- Evaluar si el crecimiento es consistente o si hay períodos con caídas notables.
+
+### Gráfica 2: Evolución de Accesos por cada 100 Hogares
+
+Esta gráfica representa la evolución de los "Accesos por cada 100 Hogares" a lo largo del tiempo, también por semestre. Al centrarnos en los hogares, obtenemos una perspectiva sobre la penetración de internet en los hogares en comparación con la población total.
+
+**Propósito:**
+- Evaluar el acceso a internet específicamente en el contexto de los hogares, lo cual puede ofrecer una visión diferente respecto a la conectividad.
+- Evaluar si el crecimiento es consistente o si hay períodos con caídas notables.
+
+### Conclusiones
+
+Tendencia Positiva continua: Las gráficas muestras una evolución positiva tanto en los "Accesos por cada 100 Hogares" como en "Accesos por cada 100 Habitantes", durante los últimos cuatro años, lo que indica un crecimiento sostenido en la penetración de internet a nivel nacional. Este aumento es una señal positiva de que más hogares están accediendo a servicios de internet, lo que sugiere una expansión continua en el acceso a la conectividad.
+Estas gráficas proporcionan una visión integral del acceso a internet en el país, crucial para que la empresa pueda ajustar sus estrategias y mejorar su posicionamiento en el mercado.
+
+![Acceso por cada 100 hogares nivel nacional](Grafico_velocidad_internet.png)
 
 
-![Acceso por cada 100 hogares nivel nacional](telecom-analysis/Acceso por cada 100 hogares nivel nacional.png)
 
 ### KPI Propuesto
 
