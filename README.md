@@ -41,6 +41,9 @@ El dashboard interactivo se encuentra en la carpeta `/dashboard/`. Este dashboar
 
 ![Descripción de la Imagen](Acceso por cada 100 hogares nivel nacional.png)
 
+
+![Acceso por cada 100 hogares nivel nacional](telecom-analysis/Acceso por cada 100 hogares nivel nacional.png)
+
 ### KPI Propuesto
 
 **Aumento del 2% en el acceso a Internet para el próximo trimestre, cada 100 hogares.**
