@@ -67,8 +67,58 @@ Esta gráfica representa la evolución de los "Accesos por cada 100 Hogares" a l
 Tendencia Positiva continua: Las gráficas muestras una evolución positiva tanto en los "Accesos por cada 100 Hogares" como en "Accesos por cada 100 Habitantes", durante los últimos cuatro años, lo que indica un crecimiento sostenido en la penetración de internet a nivel nacional. Este aumento es una señal positiva de que más hogares están accediendo a servicios de internet, lo que sugiere una expansión continua en el acceso a la conectividad.
 Estas gráficas proporcionan una visión integral del acceso a internet en el país, crucial para que la empresa pueda ajustar sus estrategias y mejorar su posicionamiento en el mercado.
 
+## Análisis de la Calidad del Servicio de Internet
+
 ![Acceso por cada 100 hogares nivel nacional](Grafico_velocidad_internet.png)
 
+
+### Introducción
+
+Este análisis tiene como objetivo medir y evaluar la calidad del acceso a internet a nivel nacional, desglosando los accesos por velocidad de conexión. Los datos proporcionan información sobre la distribución de accesos en diferentes rangos de velocidad, lo cual es fundamental para comprender la calidad del servicio y orientar las estrategias de la empresa.
+
+### Gráfica: Evolución Anual de la Velocidad Promedio de Acceso
+
+El gráfico de líneas muestra cómo ha cambiado la velocidad promedio de acceso a internet por año. Esto ayuda a identificar tendencias y patrones en la mejora del servicio a lo largo del tiempo.
+
+**Propósito:**
+- Evaluar la mejora en la calidad del servicio de internet en el país.
+- Identificar años con mejoras significativas o caídas en la velocidad promedio.
+
+
+### Conclusiones
+
+- **Tendencias Generales:** La evolución anual de la velocidad promedio indica un aumento en la calidad del acceso a internet en el país, lo que sugiere una mejora continua en los servicios.
+
+Este análisis proporciona una visión integral de la calidad del acceso a internet en el país, facilitando la identificación de oportunidades de mejora y la formulación de estrategias para optimizar el servicio ofrecido.et
+
+
+## Análisis del uso de Tecnología para el Acceso al Servicio de Internet
+
+![Acceso por cada 100 hogares nivel nacional](Grafico_tecnología_acceso.png)
+
+### Justificación del Gráfico
+
+El gráfico que se presenta a continuación muestra la evolución en el uso de diferentes tecnologías de conexión a Internet a lo largo del tiempo. Este tipo de visualización es crucial para entender las tendencias y patrones en la adopción de tecnologías, permitiendo una comparación clara entre las diferentes opciones disponibles. A través de este gráfico, podemos observar cómo cada tecnología ha evolucionado y qué tan popular se ha vuelto a lo largo de los años.
+
+### Conclusiones
+
+1. **ADSL (Línea de Abonado Digital Asimétrico)**
+   - **Tendencia:** Disminución con el paso del tiempo.
+   - **Observación:** La tecnología ADSL ha experimentado una disminución en su uso a lo largo de los años. Esto podría deberse a la llegada de tecnologías más avanzadas que ofrecen mejores velocidades y servicios.
+
+2. **Cablemodem**
+   - **Tendencia:** Mayor uso con una meseta a partir de 2022.
+   - **Observación:** El cablemodem ha sido la tecnología más utilizada durante el período observado. Sin embargo, desde 2022, su tasa de adopción ha alcanzado una meseta, indicando que la saturación del mercado podría haber ocurrido, y el crecimiento de nuevos usuarios se ha estabilizado.
+
+3. **Fibra Óptica**
+   - **Tendencia:** Crecimiento constante y rápida adopción.
+   - **Observación:** La fibra óptica ha mostrado una pendiente positiva significativa, convirtiéndose en la segunda tecnología más utilizada. Este crecimiento constante refleja el aumento en la demanda de conexiones de alta velocidad y la expansión de la infraestructura de fibra óptica.
+
+4. **Wireless (Inalámbrico)**
+   - **Tendencia:** Uso casi constante y bajo.
+   - **Observación:** La tecnología inalámbrica ha sido la menos utilizada y su tasa de adopción se ha mantenido casi constante a lo largo del tiempo. Esto podría deberse a las limitaciones en velocidad y cobertura en comparación con otras tecnologías.
+
+Este análisis permite a las empresas y responsables de políticas tomar decisiones informadas sobre dónde invertir en infraestructura y cómo adaptar sus estrategias para satisfacer la demanda de los usuarios en función de la evolución de estas tecnologías.
 
 
 ### KPI Propuesto
