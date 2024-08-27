@@ -142,7 +142,17 @@ Cada KPI adicional ha sido propuesto para proporcionar una visión más completa
 
 ## Conclusiones
 
-En esta sección se encuentran las conclusiones derivadas del análisis exploratorio de datos, el dashboard y la evaluación de los KPIs. Aquí se destacan las oportunidades de mejora y las recomendaciones basadas en los resultados obtenidos.
+Acceso a Internet por Hogares y Personas:
+
+Distribución por Hogares: El análisis de la tabla Acceso a Internet cada 100 Hogares reveló que, aunque el acceso a internet está en crecimiento a nivel nacional, existen diferencias significativas en la penetración de internet entre provincias. Algunas provincias, especialmente las más desarrolladas, muestran un acceso superior al promedio, mientras que otras están rezagadas. Esto sugiere la necesidad de enfoques diferenciados para cerrar la brecha digital en regiones con menor acceso.
+Distribución por Personas: La tabla Acceso a Internet cada 100 Personas mostró patrones similares, reflejando que, en algunas provincias, aún queda mucho por hacer para aumentar la penetración de internet en relación con la población total. Esta información es crucial para diseñar políticas públicas y estrategias de negocio enfocadas en aumentar el acceso a internet en áreas con menor cobertura.
+Distribución del Acceso a Internet por Velocidad: Al analizar los porcentajes de conexiones por rango de velocidad, se observan diferencias significativas entre provincias. Las regiones más urbanizadas tienden a tener una mayor proporción de conexiones de alta velocidad, mientras que las áreas rurales dependen más de conexiones de menor velocidad. Esta información puede orientar a la empresa a mejorar la infraestructura en áreas con menor acceso a altas velocidades.
+
+Patrones de Conectividad por Tecnología: El análisis de la tabla de Totales Accesos por Tecnología mostró un crecimiento de las tecnologías más avanzadas, como la fibra óptica, en ciertas provincias, mientras que otras regiones continúan dependiendo de tecnologías más antiguas. Este análisis es clave para dirigir las inversiones estratégicamente y priorizar la expansión de tecnologías modernas en áreas con mayor necesidad.
+
+Detección y Tratamiento de Anomalías: Durante el proceso de limpieza de datos, se identificaron y corrigieron valores faltantes, atípicos y duplicados, lo que garantiza la calidad y precisión del análisis. Este paso es crucial para asegurar que las conclusiones sean confiables y estén basadas en datos robustos.
+
+Visualización de Resultados: Las visualizaciones generadas proporcionan un resumen claro y efectivo del comportamiento del acceso a internet en diferentes provincias. Estas gráficas ayudarán a los stakeholders a entender rápidamente las tendencias y a tomar decisiones informadas basadas en datos sólidos.
 
 ## Cómo Ejecutar los Scripts y Notebooks
 
