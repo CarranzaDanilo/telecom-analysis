@@ -183,9 +183,9 @@ Visualización de Resultados: Las visualizaciones generadas proporcionan un resu
 
 ## Cómo Ejecutar los Scripts y Notebooks
 
-1. **Instalar dependencias:** Asegúrate de tener todas las librerías necesarias instaladas. Puedes utilizar un entorno virtual o `requirements.txt` para gestionar las dependencias.
-2. **Ejecutar notebooks:** Abre los notebooks en Jupyter o cualquier otro entorno compatible para explorar el análisis en detalle.
-3. **Correr scripts:** Ejecuta los scripts desde la línea de comandos o desde un entorno de desarrollo para procesar y analizar los datos.
+
+1. **Ejecutar notebooks:** Abre los notebooks en Jupyter o cualquier otro entorno compatible para explorar el análisis en detalle.
+2. El proyecto también incluye un archivo de Power BI (.pbix) que puedes abrir con Power BI Desktop para visualizar el dashboard interactivo
 
 ## Licencia
 
