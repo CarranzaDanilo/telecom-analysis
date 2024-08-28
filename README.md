@@ -18,7 +18,6 @@ Este proyecto, tiene como objetivo un análisis exhaustivo del sector de servici
 
 - **`/notebooks/`**: Contiene los notebooks de análisis exploratorio de datos (EDA). Cada notebook está documentado con Markdown para explicar los pasos realizados y las conclusiones obtenidas.
 - **`/data/`**: Carpeta que contiene los datos utilizados en el análisis. Incluye archivos CSV y otros formatos necesarios.
-- **`/scripts/`**: Scripts utilizados para procesar y analizar los datos.
 - **`/dashboard/`**: Archivos relacionados con la creación del dashboard interactivo.
 - **`README.md`**: Este archivo, que proporciona una descripción general del proyecto y guía sobre cómo usar los archivos en el repositorio.
 
@@ -62,7 +61,7 @@ Esta gráfica representa la evolución de los "Accesos por cada 100 Hogares" a l
 - Evaluar el acceso a internet específicamente en el contexto de los hogares, lo cual puede ofrecer una visión diferente respecto a la conectividad.
 - Evaluar si el crecimiento es consistente o si hay períodos con caídas notables.
 
-### Conclusiones
+## Conclusiones de ambas graficas
 
 Tendencia Positiva continua: Las gráficas muestras una evolución positiva tanto en los "Accesos por cada 100 Hogares" como en "Accesos por cada 100 Habitantes", durante los últimos cuatro años, lo que indica un crecimiento sostenido en la penetración de internet a nivel nacional. Este aumento es una señal positiva de que más hogares están accediendo a servicios de internet, lo que sugiere una expansión continua en el acceso a la conectividad.
 Estas gráficas proporcionan una visión integral del acceso a internet en el país, crucial para que la empresa pueda ajustar sus estrategias y mejorar su posicionamiento en el mercado.
@@ -72,11 +71,11 @@ Estas gráficas proporcionan una visión integral del acceso a internet en el pa
 ![Acceso por cada 100 hogares nivel nacional](Grafico_velocidad_internet.png)
 
 
-### Introducción
+## Introducción
 
 Este análisis tiene como objetivo medir y evaluar la calidad del acceso a internet a nivel nacional, desglosando los accesos por velocidad de conexión. Los datos proporcionan información sobre la distribución de accesos en diferentes rangos de velocidad, lo cual es fundamental para comprender la calidad del servicio y orientar las estrategias de la empresa.
 
-### Gráfica: Evolución Anual de la Velocidad Promedio de Acceso
+## Gráfica: Evolución Anual de la Velocidad Promedio de Acceso
 
 El gráfico de líneas muestra cómo ha cambiado la velocidad promedio de acceso a internet por año. Esto ayuda a identificar tendencias y patrones en la mejora del servicio a lo largo del tiempo.
 
@@ -85,7 +84,7 @@ El gráfico de líneas muestra cómo ha cambiado la velocidad promedio de acceso
 - Identificar años con mejoras significativas o caídas en la velocidad promedio.
 
 
-### Conclusiones
+### Conclusiones de la gráfica
 
 - **Tendencias Generales:** La evolución anual de la velocidad promedio indica un aumento en la calidad del acceso a internet en el país, lo que sugiere una mejora continua en los servicios.
 
@@ -96,11 +95,11 @@ Este análisis proporciona una visión integral de la calidad del acceso a inter
 
 ![Acceso por cada 100 hogares nivel nacional](Grafico_tecnología_acceso.png)
 
-### Justificación del Gráfico
+## Justificación del Gráfico
 
 El gráfico que se presenta a continuación muestra la evolución en el uso de diferentes tecnologías de conexión a Internet a lo largo del tiempo. Este tipo de visualización es crucial para entender las tendencias y patrones en la adopción de tecnologías, permitiendo una comparación clara entre las diferentes opciones disponibles. A través de este gráfico, podemos observar cómo cada tecnología ha evolucionado y qué tan popular se ha vuelto a lo largo de los años.
 
-### Conclusiones
+## Conclusiones de la gráfica
 
 1. **ADSL (Línea de Abonado Digital Asimétrico)**
    - **Tendencia:** Disminución con el paso del tiempo.
@@ -121,6 +120,34 @@ El gráfico que se presenta a continuación muestra la evolución en el uso de d
 Este análisis permite a las empresas y responsables de políticas tomar decisiones informadas sobre dónde invertir en infraestructura y cómo adaptar sus estrategias para satisfacer la demanda de los usuarios en función de la evolución de estas tecnologías.
 
 
+#Mapa de Calor de Argentina - Acceso a Internet por Hogares en 2024
+
+![Acceso por cada 100 hogares nivel nacional](mapa_calor_arg.png)
+
+
+## Conclusiones propias del mapa:
+
+El mapa de calor de acceso a Internet por cada 100 hogares en Argentina durante el año 2024 nos permite identificar regiones críticas con respecto a la conectividad. A continuación, se destacan los principales hallazgos:
+
+## Regiones Críticas
+
+1. **Chaco, Formosa y Santiago del Estero:**
+   - Estas provincias presentan los niveles más bajos de acceso a Internet, con cifras que no superan los 50 accesos por cada 100 hogares. Se trata de las áreas más críticas en términos de conectividad en el país.
+
+2. **Misiones, Corrientes y San Juan:**
+   - Estas regiones muestran una leve mejora en comparación con las provincias más críticas, pero aún se encuentran en una situación desfavorable en cuanto a la penetración de Internet.
+
+3. **Mendoza, Salta y Jujuy:**
+   - En este grupo, se observa una mejora en el acceso a Internet respecto a las regiones anteriores, aunque todavía por debajo de los promedios nacionales. Las políticas públicas y esfuerzos privados en estas zonas parecen estar teniendo un efecto positivo, pero es necesario continuar trabajando en su conectividad.
+
+## Regiones con Mejor Conectividad
+
+- La situación mejora considerablemente en el centro y sur del país, donde se registra una mayor cantidad de accesos a Internet por cada 100 hogares. Estas áreas están mejor conectadas y reflejan un panorama más favorable en términos de infraestructura y acceso a servicios de conectividad.
+
+---
+
+Estas conclusiones reflejan la necesidad de un enfoque prioritario en las regiones críticas mencionadas para reducir la brecha digital y fomentar la equidad en el acceso a Internet en todo el país.
+
 ### KPI Propuesto
 
 **Aumento del 2% en el acceso a Internet para el próximo trimestre, cada 100 hogares.**
@@ -135,12 +162,12 @@ Donde:
 
 ### KPIs Adicionales
 
-1. **KPI 1:** [Descripción del KPI adicional 1]
-2. **KPI 2:** [Descripción del KPI adicional 2]
+1. **KPI 1:** [Mejora en la velocidad media de Acceso a Internet por provincia]
+2. **KPI 2:** [Aumento en el uso de Fibra Óptica como Tecnologia de Acceso a Anternet]
 
 Cada KPI adicional ha sido propuesto para proporcionar una visión más completa del desempeño de los servicios de telecomunicaciones.
 
-## Conclusiones
+## Conclusiones Generales
 
 Acceso a Internet por Hogares y Personas:
 
@@ -162,6 +189,6 @@ Visualización de Resultados: Las visualizaciones generadas proporcionan un resu
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+Este proyecto ha sido elaborado por Danilo Carranza
 
 
